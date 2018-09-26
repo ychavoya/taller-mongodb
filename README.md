@@ -1,3 +1,3 @@
-# Material Curso MongoDB
+# Material Taller MongoDB
 
-Material para el curso "MongoDB: Bases de datos no relacionales".
+Material para el taller "MongoDB: Bases de datos no relacionales".
