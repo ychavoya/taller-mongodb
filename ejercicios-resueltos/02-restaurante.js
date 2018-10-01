@@ -74,15 +74,15 @@ db.empleados.insertMany([
         nombre: 'Pedro',
         apellidos: 'Rodríguez',
         salario: 105200,
-        puesto: 'Desarrollador',
-        lenguajes: ['C++', 'Java']
+        puesto: 'Mesero',
+        lenguajes: ['Español', 'Inglés']
     },
     /* 3 */
     {
         nombre: 'Mónica',
         apellidos: 'Ávila',
         salario: 185500,
-        puesto: 'CEO',
+        puesto: 'Hostess',
         deVacaciones: true,
         desde: new Date('2007-10-03')
     },
@@ -102,7 +102,7 @@ db.empleados.insertMany([
         nombre: 'Oswaldo',
         apellidos: 'Paz',
         salario: 33000,
-        puesto: 'Secretario',
+        puesto: 'Cocinero',
         hobbies: ['guitarra', 'poesía']
     }
 ])
