@@ -1,3 +1,18 @@
+/*
+=====================================
+Ejercicio 2:
+
+Crear base de datos restaurante
+Crear colecciones platillos y empleados
+Insertar 5 documentos en cada colección.
+  - Cada colección en platillos debe tener por lo menos un campo para nombre, uno para categoria y uno para precio.
+  - Cada colección en empleados debe tener por lo menos un campo para nombre, uno para apellidos, uno para puesto y uno para salario.
+  - Practicar la creación de campos con los tipos de datos vistos.
+  - Practicar la creación de documentos con campos diferentes entre sí.
+
+=====================================
+*/
+
 // Crear base de datos
 use restaurante
 

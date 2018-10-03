@@ -1,3 +1,16 @@
+/*
+=====================================
+Ejercicio 1:
+
+Crear una base de datos cualquiera
+Crear dos colecciones cualesquiera
+Mostrar las bases de datos
+Eliminar una colección
+Eliminar la base de datos creada
+
+=====================================
+*/
+
 // Crear base de datos
 use basedatos
 

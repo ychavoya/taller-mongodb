@@ -1,3 +1,19 @@
+/*
+=====================================
+Ejercicio 3:
+
+Cargar los documentos del material '01-papeleria.js'
+Mostrar todos los documentos de inventario
+- Con estado igual a D.
+- Con estado igual a A o igual a D. 
+- Con cantidad menor a 60 y estado igual a A.
+- Donde el campo colores no exista, o donde cantidad sea ≥ 75.
+- Donde colores exista y no sea de tipo array.
+- Con exactamente 3 elementos en colores.
+
+=====================================
+*/
+
 // Con estado igual a D.
 db.inventario.find({
     estado: "D"
